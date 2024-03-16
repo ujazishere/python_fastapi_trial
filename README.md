@@ -1,8 +1,8 @@
-Navigate into Cirrostrats directory then run:
+Navigate into the python_fastapi_trial directory then run:
 mac: `sudo pip3 install virtualenv`
 
 Make virtual environment using:
-mac: `virtualenv c_venv`
+mac: `virtualenv venv`
 
 Activate virtual environment:
 mac: `source venv/bin/activate`
